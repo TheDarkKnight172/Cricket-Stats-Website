@@ -8,3 +8,4 @@
   2) In the terminal, run `npm install`
   3) Run `npm start` to view project in browser
   
+  Download the ZIP file and Run final_py.py for Deploying the Website
